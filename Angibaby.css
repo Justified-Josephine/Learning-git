@@ -1,0 +1,33 @@
+.main {
+    background-color: gray;
+    padding: 20px;
+    margin: 10px;
+}
+
+
+.main h1 {
+    color: #fff;
+}
+
+.main div p {
+    color: #000;
+    font-weight: 500;
+    font-family: 'Lucida Sans';
+    font-size: 2rem;
+    line-height: 1.5;
+
+}
+
+.main div button {
+    background-color: burlywood;
+    color: purple;
+    font-weight: 200;
+    padding: 10px;
+    border: none;
+    border-radius: 500px;
+
+}
+
+.container {
+    display: flex;
+}
